@@ -1,17 +1,3 @@
-# Epigraph {.epigraph epub:type=epigraph}
-
-::: poem
-Joshua fit d’ battle of Jericho        
-
-And d’ walls come tumblin’ down---
-:::
-
-
-# Jericho
-
-::: part-title
-:::
-
 ## I
 
 Despite the objections of the dickties, who prefer to ignore the existence of so-called rats, it is of interest to consider Henry Patmore’s Pool Parlor on Fifth Avenue in New York.
