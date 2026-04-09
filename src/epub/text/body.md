@@ -1,13 +1,3 @@
-# Dedication {.dedication epub:type=preface}
-
-For Glendora---
-
-May her laugh be silver,
-
-like her hair
-
-              
-
 # Epigraph {.epigraph epub:type=epigraph}
 
 ::: poem
