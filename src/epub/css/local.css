@@ -121,3 +121,34 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
+
+/* Begin glossaries */
+dl{
+	margin: 1em 0;
+}
+
+dfn{
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}
+
+dd p + p{
+	text-indent: 0;
+}
+
+#glossary ol{
+	margin: 0;
+}
+
+#glossary a{
+	font-style: italic;
+}
+/* End glossaries */
