@@ -35,18 +35,21 @@ section[epub|type~="dedication"] blockquote{
 /* End dedication */
 
 /* Begin verse */
-[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:verse"] p,
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:verse"] p > span,
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:verse"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
@@ -152,3 +155,7 @@ dd p + p{
 	font-style: italic;
 }
 /* End glossaries */
+
+#chapter-5 blockquote p{
+	text-indent: 0;
+}
