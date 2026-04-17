@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#belly-rub">
+		<match value="belly-rub"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#biggy">
+		<match value="biggy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boogy">
+		<match value="boogy">
+			<value value="boogies"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boy">
+		<match value="boy">
+			<value value="boys"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bring-mud">
+		<match value="bringin’ me mud"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#brother">
+		<match value="brother"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bump-the-bump">
+		<match value="bump-the-bump"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#butt">
+		<match value="butt"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#catch-air">
+		<match value="catch air"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#choke">
+		<match value="choke"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chorine">
+		<match value="chorines"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chorat">
+		<match value="chorats"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#crow">
+		<match value="crow"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#daddy">
+		<match value="daddy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#darkey">
+		<match value="darkey"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dickty">
+		<match value="dickty">
+			<value value="dickties"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dog">
+		<match value="dog"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#do-it">
+		<match value="do it"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#do-your-stuff">
+		<match value="do your stuff"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#eight-ball">
+		<match value="eight-ball"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#evermore">
+		<match value="evermore"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drunk-down">
+		<match value="drunk down"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fay">
+		<match value="fay">
+			<value value="fays"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#from-way-back">
+		<match value="from way back"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#get-away">
+		<match value="get away">
+			<value value="getting away"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#give-one-air">
+		<match value="give him lots o’ air"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hiney">
+		<match value="hiney"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hot">
+		<match value="hot"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hot-you">
+		<match value="hot you"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#how-come">
+		<match value="how come"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#i-mean">
+		<match value="I mean"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jasper">
+		<match value="jasper"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jazz">
+		<match value="jazz"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jig-jigaboo-jigwalker">
+		<match value="jig">
+			<value value="jigs"/>
+			<value value="jigaboo"/>
+			<value value="jigwalker"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jive">
+		<match value="jive"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jiver">
+		<match value="jiver"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#john-brown">
+		<match value="john-browned"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kack">
+		<match value="kacks"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#km">
+		<match value="K.M.">
+			<value value="K.M.’s"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mamma">
+		<match value="mamma"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miss">
+		<match value="miss"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#monkey-back">
+		<match value="monkey-back"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mud">
+		<match value="mud"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#no-lie">
+		<match value="no lie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#oscar">
+		<match value="Oscar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#out-of-this-world">
+		<match value="out this world"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#papa">
+		<match value="papa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#previous">
+		<match value="previous"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#put-get-have-the-locks-on">
+		<match value="put d’ locks on"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#put-it-on-one">
+		<match value="put it on"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#red-hot">
+		<match value="red-hottest"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#right">
+		<match value="right"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#right-on">
+		<match value="right on"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rat">
+		<match value="rat">
+			<value value="rats"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#salty-dog">
+		<match value="salty dog"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sharp">
+		<match value="sharp"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sheba">
+		<match value="sheba"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shout">
+		<match value="shout"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#slip">
+		<match value="slip">
+			<value value="slipping"/>
+			<value value="slippin’"/>
+			<value value="slipped"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#smoke-over">
+		<match value="smoke him over"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#smoothe">
+		<match value="smoother"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stuff">
+		<match value="stuff"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#the-man">
+		<match value="the man"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tight">
+		<match value="tight"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#to-be-had">
+		<match value="be had"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#turn-ones-damper-down">
+		<match value="damper turned down"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#uh-huh">
+		<match value="uh-huh"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#uppity">
+		<match value="uppity"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#what-do-you-say">
+		<match value="whut ’d you say"/>
+	</search-key-group>
+</search-key-map>
