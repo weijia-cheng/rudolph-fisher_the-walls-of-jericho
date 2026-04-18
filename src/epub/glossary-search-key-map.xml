@@ -208,6 +208,9 @@
 	<search-key-group href="text/glossary.xhtml#stuff">
 		<match value="stuff"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tell-em-bout-it">
+		<match value="tell ’im ’bout it"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#the-man">
 		<match value="the man"/>
 	</search-key-group>
@@ -222,6 +225,9 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#uh-huh">
 		<match value="uh-huh"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#uh-uh">
+		<match value="uh-uh"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#uppity">
 		<match value="uppity"/>
