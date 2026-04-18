@@ -52,20 +52,6 @@ section[epub|type~="dedication"] blockquote{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
 /* End verse */
 
 /* All epigraphs */
@@ -73,21 +59,6 @@ p span.i2{
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	font-style: normal;
-	font-variant: small-caps;
-	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 /* End all epigraphs */
 
@@ -117,10 +88,6 @@ section[epub|type~="epigraph"] > *{
 
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
-	}
-
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
 	}
 }
 /* End full-page epigraphs */
@@ -155,6 +122,10 @@ dd p + p{
 	font-style: italic;
 }
 /* End glossaries */
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
 
 #chapter-5 blockquote p{
 	text-indent: 0;
