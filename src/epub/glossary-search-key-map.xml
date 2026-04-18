@@ -183,6 +183,9 @@
 	<search-key-group href="text/glossary.xhtml#salty-dog">
 		<match value="salty dog"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#see-one-go">
+		<match value="saw us go"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sharp">
 		<match value="sharp"/>
 	</search-key-group>
