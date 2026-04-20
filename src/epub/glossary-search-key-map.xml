@@ -54,6 +54,11 @@
 			<value value="dickties"/>
 		</match>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dinge">
+		<match value="dinge">
+			<value value="dingiest"/>
+		</match>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dog">
 		<match value="dog"/>
 	</search-key-group>
