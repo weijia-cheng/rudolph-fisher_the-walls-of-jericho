@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#ask-for">
+		<match value="askin’ for">
+			<value value="ask f’"/>
+		</match>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#belly-rub">
 		<match value="belly-rub"/>
 	</search-key-group>
