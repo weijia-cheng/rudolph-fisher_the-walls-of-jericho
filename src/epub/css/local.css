@@ -99,7 +99,7 @@ dl{
 
 dfn{
 	font-style: normal;
-	font-variant: small-caps;
+	font-variant: all-small-caps;
 }
 
 dd{
@@ -110,7 +110,8 @@ dd + dt{
 	margin-top: 1em;
 }
 
-dd p + p{
+dd p + p,
+dd ol + p{
 	text-indent: 0;
 }
 
