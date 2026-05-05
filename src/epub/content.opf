@@ -39,7 +39,7 @@
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A black lawyer attempts to move into an exclusively white neighborhood.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>When Fred Merrit, a wealthy and light-skinned black lawyer, decides to move into an exclusively white neighborhood in Manhattan, he hires three of the toughest movers in Harlem, Joshua “Shine” Jones, Jinx Jenkins, and Bubber Brown, to bring his possessions safely into his new home. Under the surface, all is not well. Fred Merrit’s new neighbors, like the haughty Miss Agatha Cramp, resent his intrusion into their neighboor, while the working-class “rats” of the Harlem community resent the cultural mores of professional “dickties” like Fred Merrit. These confrontations all come to the surface in <i>The Walls of Jericho</i>, a comedy of manners depicting everyday life during the Harlem Renaissance, which was the first novel published by <a href="https://standardebooks.org/ebooks/rudolph-fisher">Rudolph Fisher</a>.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://github.com/nealcaren/crisis-and-opportunity-books</dc:source>
